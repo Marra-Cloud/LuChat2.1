@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            WhaTicket
+            LuChat v2.3
           </Typography>
           {user.id && <NotificationsPopOver />}
 
