@@ -248,7 +248,7 @@ const messages = {
         },
       },
       transferTicketModal: {
-        title: "Transferir Ticket",
+        title: "Transferir Atendimento",
         fieldLabel: "Digite para buscar usuários",
         fieldQueueLabel: "Transferir para fila",
         fieldConnectionLabel: "Transferir para conexão",
@@ -284,7 +284,7 @@ const messages = {
         listItems: {
           dashboard: "Dashboard",
           connections: "Conexões",
-          tickets: "Tickets",
+          tickets: "Atendimentos",
           contacts: "Contatos",
           quickAnswers: "Respostas Rápidas",
           queues: "Filas",
