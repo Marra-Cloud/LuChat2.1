@@ -179,6 +179,7 @@ const LoggedInLayout = ({ children }) => {
         <div className={classes.toolbarIcon}>
           <IconButton onClick={() => setDrawerOpen(!drawerOpen)}>
             <ChevronLeftIcon />
+            <a href="https://imgur.com/iXzsIKk"><img src="https://i.imgur.com/iXzsIKk.png" title="source: imgur.com" /></a>
           </IconButton>
         </div>
         <Divider />
